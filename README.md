@@ -1,6 +1,6 @@
-# listview_moja
+# list_view
 
-A new Flutter project.
+Simple Flutter app tht fetches dat from an api.
 
 ## Getting Started
 
